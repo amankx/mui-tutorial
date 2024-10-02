@@ -18,6 +18,7 @@ export const MuiCheckbox = () => {
           onChange={handleChange}
         />
       </Box>
+      <Box></Box>
     </Box>
   );
 };
