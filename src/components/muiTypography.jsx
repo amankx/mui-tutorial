@@ -25,7 +25,7 @@ export const MuiTypograraphy = () => {
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem, quis
         error recusandae reprehenderit, dolorem dolores aliquam accusantium aut
         tempora officia ad blanditiis repellat, incidunt velit possimus? Numquam
-        recusandae quis quasi? Just checking
+        recusandae quis quasi? One last time
       </Typography>
     </div>
   );
